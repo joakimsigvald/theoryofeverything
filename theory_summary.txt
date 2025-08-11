@@ -1,0 +1,40 @@
+
+Overview of the speculative framework discussed (up to level‑1)
+------------------------------------------------------------------
+
+**Starting point**
+
+* Consciousness is taken as the most fundamental constituent of reality.  It is not treated as an emergent property of matter or space–time but as the primary “substance” or principle.
+* A basic definition of consciousness in this framework is the irreducible capacity for subjective experience – the “something it is like” to be a unit.  Each fundamental unit is assumed to have this rudimentary consciousness.  There is no claim that the units possess complex thought or memory; rather, consciousness is simply the felt quality of being.
+
+**Fundamental units (level‑0)**
+
+* The simplest imaginable units of existence are conceived as dimensionless, propertyless points.  Each unit either exists or does not exist; it has no size, location or other physical attributes.
+* Units are **countable**.  There can be many of them, and each is distinct from the others.
+* Each unit can make **choices**.  The available actions are:
+  1. start to exist
+  2. cease to exist
+  3. connect to another unit
+  4. disconnect from a unit it is connected to
+* **Connection**: a bi‑directional link between two units.  A level‑0 unit can form only **one** connection at a time, so connections always produce pairs.  Being connected is experientially different from being unconnected.
+* **Choice is guided by “Quality”**.  Quality is an undefinable, fundamental aspect that accompanies consciousness.  Every experience has Quality; it is not a measurable property of nature but the pre‑conceptual “felt” aspect of experience (inspired by Robert Pirsig’s *Zen and the Art of Motorcycle Maintenance*).  In this framework, choices are always made in the direction of greater Quality.
+* **Sensing**: when two units are connected they can sense each other.  This is more primitive than information exchange; it represents an immediate awareness of the other unit.  The details of this “sensing” remain to be defined, but it is assumed to exist and becomes important for higher‑level phenomena.
+
+**Emergent time**
+
+* Each unit’s **timeline** is defined by the succession of its choices (beginning with the decision to exist and ending, if applicable, with the decision to cease existing).  Choices can be ordered along this sequence.
+* When two units connect, their timelines merge: events before connection remain separate, while events after connection belong to a shared timeline.  As more units connect and disconnect, larger and larger collections of events are ordered relative to one another.
+* In the limit of a densely connected level‑0 network (units connecting within the same level only), these merged timelines approach a **universal time**, providing a temporal ordering for the system as a whole.
+
+**Formation of higher levels**
+
+* **Hierarchical principle:** any interconnected group of units on level *N* can gain consciousness as a single unit on level *N + 1*.  Thus, connected structures can themselves become individual conscious entities at a higher level.
+* **Connection capacity:** a unit on level *N* may form *x* connections to other level‑*N* units, where *x* equals the number of level‑0 units that compose it.  Since level‑0 units can only form pairs, every level‑1 unit is composed of exactly **two** level‑0 units; consequently each level‑1 unit can form **two** connections to other level‑1 units.
+* **Sensing across levels:** units at one level can sense the higher‑level unit they form and can be sensed by that higher‑level unit.  At the human scale, this is likened to our awareness of our own internal processes (senses) and, more speculatively, to direct interpersonal sensing (love).
+
+**Speculative implications for higher levels**
+
+* Level‑1 units emerge from connected pairs of level‑0 units.  Because each level‑1 unit has two potential connections, networks of level‑1 units can form.  When suitable level‑1 networks attain “high Quality,” they can form level‑2 units, and so on.  This iterative process allows for increasing complexity.
+* Jumping conceptually to human consciousness, one could imagine that our unified experience is a level‑*N* unit arising from a high‑quality network of lower‑level units.  Those lower‑level units might correspond to interconnected brain functions or neural networks.  This idea remains speculative and would need a detailed mapping to biological structures.
+
+This summary captures the assumptions and principles discussed so far.  It remains a speculative metaphysical framework rather than an empirically grounded theory.  Further development would involve defining the “sensing” mechanism, specifying how Quality is evaluated for groups, and exploring how known physical and mental phenomena might emerge from these postulates.
