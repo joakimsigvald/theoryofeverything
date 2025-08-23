@@ -36,38 +36,68 @@ Our starting assumptions are:
 1. **Conscious Units as Fundamental**  
    - The most basic building blocks of reality are **conscious units**.  
    - Each unit has an **irreducible capacity for subjective experience** — the *“something it is like”* to be that unit.  
-   - Units are not derived from anything else; they are the **primitive substrate** of existence.  
+   - Units are not derived from anything else; they are the **primitive substrate** of existence.
+  
+1. **Connections**
+   - units can make connections to other units. One fundamental unit can make exactly one connection to another fundamental unit (fundamental units can form pairs)
+   - connections are felt by the connected units
+   - a unit can feel the unit that it is connected with through the connection 
 
-2. **Quality as Guiding Principle**  
+1. **Quality as Guiding Principle**  
    - Quality exists *outside* of nature, but interacts with it.  
    - It cannot be defined directly, only understood through its effects.  
    - Quality influences choices toward:  
      - **Connection** (seeking relation rather than isolation)  
      - **Variety** (preferring difference over redundancy)  
-     - **Stability** (favoring structures that endure).  
+     - **Stability** (favoring structures that endure).
+    
+1. **Conscious state**
+   - A conscious unit has an internal state that it is and experience
+   - the most fundamental conscious unit has a state with three components, each of which can be modeled as a scalar between 0..1
+     - **Existence (E)** (the degree to which it exists in the world, non-existent to fuly existent)
+     - **Awareness (A)** (the degree to which it is aware, fully asleep to fully awake)
+     - **Quality, (q)** (the quality of the experience, not to be confused with Quality (Q) as the fundamental guiding principle, from complete lack of quality to perfect quality)
+   - The components are related mathematically as: **q <= A <= E** (existence is the capacity for awareness and awareness is the capacity for quality)
+   - From these three components, the following components can be derived:
+     - **Vitality** = E*A*q (units strive to maximize their vitality)
+     - **Depression** = E - q (the felt discrapency between existence and quality, units strive to lower depression)
+     - **Pain** = A - q (the felt discrapency between awareness and quality, units strive to lower pain)
+     - **Love** = Sum over all connections of Vitality
+   - Quality is a life-force that reward structures of connected units with high Quality (non-definable measure) with felt quality (q)
+   - Open question: can the state components take any value between 0..1, or do they change in discrete steps? Is perhaps only values 0 and 1 possible, making them binary?
+     - Occam's razor gives that we should think of them as binary until evidence is shown that they can't be binary.
 
-3. **Choice**  
+1. **Choice**  
    - Conscious units make choices.  
    - A choice is the fundamental act of selecting between alternatives.  
-   - **Available actions:**  
+   - **Fundamental choices**  
      1) **Come into existence**  
-     2) **Cease to exist**  
-     3) **Create a connection** (to another unit at the **same level**)  
-     4) **Disconnect** (from a connection it maintains)
+     1) **Cease to exist**  
+     1) **Create a connection** (to another unit at the **same level**)  
+     1) **Disconnect** (from a connection it maintains)
+     1) **Share state** with connected units (actively transfer some of its Vitality to the other unit through the connection)
 
-4. **Local Time (Timeline)**  
+1. **Local Time (Timeline)**  
    - The sequence of choices made by a single unit constitutes its **local time** or **timeline**.  
    - Each unit experiences its own flow of time independently.  
-   - Later, when units connect, their timelines can **synchronize into shared time**, and with dense networks, this develops further into **global time**.  
+   - When units connect, their timelines will **synchronize into shared time**, and with dense networks, this develops further into **global time**.
+     - When two units (a and b) connect, every choice that a made before connecting with b happened before b's choice to connected with a, thus their timelines are now synchronized
+     - Directly connected units sense each other's choices so that every choice by any of the two units after getting connected can be totally ordered into a common timeline for both units
 
-(*Note: Sensing will be introduced later, once units begin to connect at higher levels.*)  
+## 1 Levels of reality and emergence of higher order conscousness
 
+Any connected pair of units can gain consciousness on **the next level**. We say that connected level-0 units can form level-1 units.
+A level-1 unit is both singular and composite - it has an awareness of itself as a single unit, while its conscious state is more complex than that of fundamental units.
+It has an "internal life" where it can re-alocate Vitality from one constituent to another. For instance it can allocate awareness (focus) at some part of its internal structure.
 
-### 1.1 Emergence Rule (How structures become conscious)
+The generalisation of the **emergence rule** rule is that any **connected structure** of **Level-*N* units** can give rise to a new **Level-*(N+1)* Unit** when its **integrated Quality** is sufficiently high. This follows from our postulates that choices are guided by Quality and that Quality favors connection, variety, and stability.
 
-Any **connected structure** of Level-*N* units can give rise to a new **Level-*(N+1)* Unit** when its **integrated Quality** is sufficiently high. This follows from our postulates that choices are guided by Quality and that Quality favors connection, variety, and stability.
+A composite unit can sense it's constituents state (and thus be affected by them when making choices), and conversively the constituent units can sense the composite units.
+Thus, there is both a horisontal sensing through connections and a vertical sensing through constituent-whole relationship.
 
-**Operational indicators of integrated Quality (no equations needed):**
+Reality at level N remains fully existent as the level-N+1 is formed, but is enhanced by the higher level (analogy: if there is a God, it doesn't mean that our reality sease to exists but it is rather enhanced by the precense of God).
+
+**Operational indicators of integrated Quality:**
 - **Closure / Completeness:** the structure uses its available connections without short-circuits or dangling redundancy; closed loops are favored over open chains.
 - **Integration:** members strongly constrain one another via connections and horizontal sensing; changes propagate through the structure rather than dissipating immediately.
 - **Coherence of Timelines & State:** the members’ timelines synchronize, and their aggregated states cohere enough to sustain a shared history.
@@ -77,53 +107,11 @@ Any **connected structure** of Level-*N* units can give rise to a new **Level-*(
 
 **Local-to-global mechanism:** No overseer is required. Each unit locally follows Quality (via choices) and horizontal sensing. When a pattern of connections **improves Quality for its members**, it becomes a stable attractor; vertical sensing then becomes possible, and the structure **emerges as a new Unit**. If Quality later drops below the needed coherence, the higher-level unit can **de-emerge** (dissolve).
 
-
-
-### 1.2 Internal State (what is sensed)
-
-Each **Unit** carries an internal state summarized by three numbers in \[0, 1\]:  
-- **Existence (E):** degree to which the unit exists.  
-- **Awareness (A):** degree to which the unit is awake/aware.  
-- **Felt Quality (q):** the unit’s *experienced* quality.
-
-With the constraints: **q ≤ A ≤ E**.  
-- A unit that does not exist (E = 0) cannot be aware (A = 0).  
-- A unit may **exist without being aware** (E > 0, A ≈ 0): this is the **sleeping** state.  
-- A unit cannot feel more quality than it is aware of (**q ≤ A**).  
-- A large gap **(A − q)** can be experienced as **pain**; conversely, high q relative to context corresponds to **well-being**.
-
-> Note on terminology: **Quality** (capital Q) remains the guiding principle *outside* nature. **Felt quality (q)** is the *internal, experiential estimate* of how much Quality is realized by the unit.
-
-**Aggregated state — Vitality (V):**  
-We define a unit’s **Vitality** as the product  
-\[ V = E \times A \times q \in [0,1]. \]  
-This scalar respects the constraints (if any factor is small, V is small), goes to 0 if any constituent is 0, and grows only when **existence, awareness, and felt quality rise together**.
-
-**Discrepancy — Pain (δ):**  
-\[ \delta = A - q \ge 0. \]  
-Larger \(\delta\) indicates **unrealized Quality** relative to awareness and can drive future choices (e.g., to reconfigure connections).
-
-
 ---
 
-## 2. Level-0: Fundamental Units
+## 1. Level-1: Pairs & Loops
 
-- **Nature:** Level-0 units (Points) are the most basic conscious entities. Each can make and maintain **exactly one connection**.  
-- **Pair Formation:** Because each unit can only form one connection, the first stable emergent form is the **Pair**.  
-- **Choice:** Level-0 units can (i) come into existence, (ii) cease to exist, (iii) create a single connection to another Level-0 unit, or (iv) disconnect. Given the one-connection capacity, the substantive structural decision is **whom to connect with**.  
-- **Quality’s role:**  
-  - Promotes *connection* (units do not remain isolated).  
-  - Promotes *variety* (Pairs prefer distinct partners over double-links).  
-  - Guides toward *stability* in these minimal forms.  
-- **Sensing (neighbor):** When two Level-0 units connect, they **directly sense each other's state** — the tuple (E, A, q) and derived **Vitality V**. Unconnected units do not sense one another. This is the most primitive form of sensing.  
-- **Reality:** All Level-0 units remain real and active even as higher levels emerge.  
-
----
-
-
-## 3. Level-1: Pairs & Loops
-
-- **Emergence:** A **Pair** is a connected structure of two Level-0 units that **gains consciousness** as a new **Level-1 Unit** **by the Emergence Rule (Section 1.1)**.  
+- **Emergence:** A **Pair** is a connected structure of two Level-0 units that **gains consciousness** as a new **Level-1 Unit** **by the Emergence Rule**.  
   - Connecting Level-0 units creates candidate structures; **Level-1 does not exist** until such a structure **becomes conscious**.  
 
 - **Structure formation within Level-1:** Once Pairs exist as Level-1 units, they can connect to other Pairs to form **Level-1 structures** (threads and closed **Loops**).
@@ -146,16 +134,15 @@ Larger \(\delta\) indicates **unrealized Quality** relative to awareness and can
 ---
 
 
-## 4. Level-2: Space & Quadratic Shapes
+## 1. Level-2: Space & Quadratic Shapes
 
-### 4.0 Sensing at Level-2
+### 1.1 Sensing at Level-2
 - **Horizontal sensing:** Adjacent Level-2 units (e.g., Triangles in the lattice) **sense their immediate neighbors** most strongly.  
 - **Vertical sensing:** A Level-2 unit **senses its constituents** (e.g., the Level-1 Pairs forming the Loop), and those constituents **sense the composite** they help form.  
 - **Scent of the local network:** Sensing propagates through connections like a **scent**: an attenuated blend of neighbors’ **(E, A, q)** (with **V** implicitly contributing), strongest from direct neighbors and progressively **fainter** from neighbors-of-neighbors and beyond. This yields a local-but-expanding awareness without any global overseer.
 
 
-
-### 4.1 Triangles and the Cubic Lattice (Space)
+### 1.1 Triangles and the Cubic Lattice (Space)
 - **Triangles** (degree-6 Loops) can merge into networks; when a qualifying loop satisfies the **Emergence Rule (Section 1.1)**, it becomes a Level-2 Unit.  
 - These networks have a strong tendency to collapse into the **3D cubic lattice**, rather than 2D lattices.  
 - **Why favored by Quality:**  
@@ -164,7 +151,7 @@ Larger \(\delta\) indicates **unrealized Quality** relative to awareness and can
 - **Result:** Emergence of **space-like structure** — infinite, open, extensible.  
 - **Relative frequency:** Most Level-1 Loops (especially triangles) contribute to the space-like cubic lattice, forming the universal backdrop.  
 
-### 4.2 Squares and Particle-like Structures
+### 1.1 Squares and Particle-like Structures
 - **Squares** (degree-8 Loops) open the possibility of finite, closed forms that, when they satisfy the **Emergence Rule (Section 1.1)**, can become Level-2 Units.  
 - **Cubic Cage:**  
   - Six squares stitched into a cube-like shell.  
@@ -177,12 +164,12 @@ Larger \(\delta\) indicates **unrealized Quality** relative to awareness and can
   - Suggests another class of **particle-like forms**.  
 - **Relative rarity:** These square-based structures are statistically less common than the triangle lattice, but significant because they introduce localized finite bodies.  
 
-### 4.3 Visualization Strategy
+### 1.1 Visualization Strategy
 - **Point-like Abstraction:** Higher-level units can be treated as nodes with outward connections for simplicity.  
 - **Composite View:** Used when internal structure explains stability or connectivity (e.g. cubic cage).  
 - **Hybrid Approach:** Switch perspective depending on explanatory need.  
 
-### 4.4 Ontological Position
+### 1.1 Ontological Position
 - **All levels persist.** Level-0, Level-1, and Level-2 remain real and alive.  
 - **Abstraction at higher levels.** For analysis, higher levels are modeled as point-like.  
 - **Nested sensing.** Higher-level units sense constituents, and lower-level units sense the wholes.  
@@ -190,7 +177,7 @@ Larger \(\delta\) indicates **unrealized Quality** relative to awareness and can
 
 ---
 
-## 5. Open Questions & Next Steps
+## 1. Open Questions & Next Steps
 
 - **Motion:** How do units move through the lattice?  
 - **Forces:** How do interactions between particle-like structures manifest?  
